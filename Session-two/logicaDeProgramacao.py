@@ -30,6 +30,6 @@ nome1 = "Cristian"
 idade = 23
 altura = 1.69
 peso = 80.5
-imc = peso / altura ** altura
+imc = peso / (altura * altura)
 
 print(nome1, 'tem', idade, 'de idade e seu imc é', imc)
