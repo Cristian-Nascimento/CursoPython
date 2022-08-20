@@ -7,7 +7,7 @@ que não é um número inteiro.
 teclado = input('insira um número inteiro')
 
 if teclado.isdigit():
-    teclado = int(teclado)    
+    teclado = int(teclado)
 
     if (teclado % 2) == 0:
         print(f'o numero {teclado} é par.')
