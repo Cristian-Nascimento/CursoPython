@@ -25,4 +25,4 @@ if ano.isdigit():
         print('Favor insira um ano correto')
 
 else:
-        print('Favor insira um ano correto')
+    print('Favor insira um ano correto')
